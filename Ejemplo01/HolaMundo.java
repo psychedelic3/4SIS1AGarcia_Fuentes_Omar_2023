@@ -1,3 +1,4 @@
+package Ejemplo01;
 /*
 java maneja clases las cuales nos sirven para diferencias objetos, cada clase puede poseer uno o varios objetos
 y tipos de datos que van a canvivir dentro de la clase 
